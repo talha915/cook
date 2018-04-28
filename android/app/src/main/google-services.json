@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "460038217350",
+    "firebase_url": "https://cook-c0223.firebaseio.com",
+    "project_id": "cook-c0223",
+    "storage_bucket": "cook-c0223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460038217350:android:83599625df3da4b3",
+        "android_client_info": {
+          "package_name": "com.cook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460038217350-is2lvp5jm58f3vsc67td7ep790pprpu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Eex3htWc6CcflEdcQZEexkxJzIau0lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460038217350:android:82ca51160af818dd",
+        "android_client_info": {
+          "package_name": "com.mytabboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460038217350-is2lvp5jm58f3vsc67td7ep790pprpu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Eex3htWc6CcflEdcQZEexkxJzIau0lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
